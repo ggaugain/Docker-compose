@@ -1,0 +1,8 @@
+web:
+   image: php:apache
+   environment:
+     - ALLOW_OVERRIDE=true
+   ports:
+     - "80:80"
+   volumes:
+     - ./data/web:/var/www/html
