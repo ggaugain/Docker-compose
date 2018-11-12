@@ -1,4 +1,5 @@
 ## Instructions
+I use environments for LAB or demo
 
 Enter the following command to start your containers:
 ```bash
@@ -11,7 +12,6 @@ $ docker-compose down
 ```
 
 ## LAP Stack
-
 lap (Linux, Apache, PHP)
 
 ```bash
@@ -22,7 +22,6 @@ $ docker-compose up -d
 * For tesking go to : `http://<your ip>/`
 
 ## ELK Stack
-
 elk (Elasticsearch, Logstash, Kibana)
 
 ```bash
