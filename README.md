@@ -1,5 +1,4 @@
 ## Instructions
-I use environments for LAB or demo
 
 Enter the following command to start your containers:
 ```bash
